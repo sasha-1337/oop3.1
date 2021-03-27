@@ -1,0 +1,11 @@
+﻿  UnitTest3_1.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Auxiliary\VS\UnitTest\include\CppUnitTestAssert.h(137,29): error C2676: бинарный "==": "const T" не определяет этот оператор или преобразование к типу приемлемо к встроенному оператору
+          with
+          [
+              T=Pair
+          ]
+D:\Student\oop3.1\UnitTest3_1\UnitTest3_1.cpp(23): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual<Pair>(const T &,const T &,const wchar_t *,const Microsoft::VisualStudio::CppUnitTestFramework::__LineInfo *)"
+          with
+          [
+              T=Pair
+          ]
